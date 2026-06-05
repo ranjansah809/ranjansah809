@@ -22,3 +22,11 @@ JavaScript based currency conversion web application.
 
 ## Contact
 - GitHub: https://github.com/ranjansah809
+
+## Certifications
+
+- Google for Developers
+- Cisco Networking Academy
+- Oracle Cloud Infrastructure
+- Palo Alto Networks Cybersecurity
+- Juniper Networks
