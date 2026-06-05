@@ -21,7 +21,9 @@ PHP and MySQL based transport management application for educational institution
 JavaScript based currency conversion web application.
 
 ## Contact
+
 - GitHub: https://github.com/ranjansah809
+- LinkedIn: https://linkedin.com/in/sahranjan
 
 ## Certifications
 
