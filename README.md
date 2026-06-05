@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ranjan Sah 👋
 
-<!--
-**ranjansah809/ranjansah809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Tech CSE Student at Galgotias University
+- Interested in AI, Machine Learning, Cyber Security and Web Development
+- Currently learning Advanced Algorithms and Full Stack Development
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- PHP
+- JavaScript
+- MySQL
+- HTML/CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Smart Transport Management System
+PHP and MySQL based transport management application for educational institutions.
+
+### Currency Converter
+JavaScript based currency conversion web application.
+
+## Contact
+- GitHub: https://github.com/ranjansah809
