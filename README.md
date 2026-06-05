@@ -1,34 +1,67 @@
 # Hi, I'm Ranjan Sah 👋
 
-## About Me
-- B.Tech CSE Student at Galgotias University
-- Interested in AI, Machine Learning, Cyber Security and Web Development
-- Currently learning Advanced Algorithms and Full Stack Development
+## 🚀 About Me
 
-## Skills
+- 🎓 B.Tech CSE Student at Galgotias University (2022-2026)
+- 💻 Interested in AI, Machine Learning, Cyber Security & Web Development
+- 🌱 Currently learning Advanced Algorithms and Full Stack Development
+- 🔍 Open to Software Engineering and Developer Opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 - Java
-- PHP
 - JavaScript
+- PHP
+- SQL
+
+### Web Development
+- HTML
+- CSS
+- React.js
+
+### Database
 - MySQL
-- HTML/CSS
-- Git & GitHub
 
-## Projects
-### Smart Transport Management System
-PHP and MySQL based transport management application for educational institutions.
+### Tools
+- Git
+- GitHub
+- VS Code
 
-### Currency Converter
-JavaScript based currency conversion web application.
+---
 
-## Contact
+## 📂 Projects
 
-- GitHub: https://github.com/ranjansah809
-- LinkedIn: https://linkedin.com/in/sahranjan
+### 🚍 Smart Transport Management System
+PHP & MySQL based Transport Management System for Educational Institutions.
 
-## Certifications
+### 💱 Currency Converter
+React-based Currency Converter using Exchange Rate API.
+
+---
+
+## 🏆 Certifications
 
 - Google for Developers
 - Cisco Networking Academy
 - Oracle Cloud Infrastructure
 - Palo Alto Networks Cybersecurity
 - Juniper Networks
+- Google Cloud Skills Boost
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ranjansah809
+- LinkedIn: https://www.linkedin.com/in/sahranjan/
+
+---
+
+## 🎯 Career Objective
+
+Passionate Computer Science student with strong interest in Software Development, AI/ML, and Cyber Security. Seeking opportunities to apply technical skills and contribute to innovative projects.
+
+⭐ Thanks for visiting my profile!
