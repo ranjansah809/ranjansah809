@@ -40,6 +40,9 @@ PHP & MySQL based Transport Management System for Educational Institutions.
 ### 💱 Currency Converter
 React-based Currency Converter using Exchange Rate API.
 
+### 📰 AI-Powered Fake News Detection
+Machine Learning and NLP based Fake News Detection System using TF-IDF Vectorization and Multiple ML Models.
+
 ---
 
 ## 🏆 Certifications
