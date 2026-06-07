@@ -2,10 +2,11 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student at Galgotias University (2022-2026)
-- 💻 Interested in AI, Machine Learning, Cyber Security & Web Development
-- 🌱 Currently learning Advanced Algorithms and Full Stack Development
-- 🔍 Open to Software Engineering and Developer Opportunities
+- 🎓 B.Tech Computer Science Engineering Student at Galgotias University (2022–2026)
+- 💻 Passionate about Software Development, Data Structures & Algorithms, and Problem Solving
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and Cyber Security
+- 🌱 Currently strengthening my skills in Full Stack Development and Advanced Algorithms
+- 🚀 Actively building projects and seeking Software Engineering internship and full-time opportunities
 
 ---
 
